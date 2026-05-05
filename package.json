@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Template de Python compatible con el pipeline universal de Ops",
   "scripts": {
-    "test": "pytest --pass-with-no-tests",
+    "test": "pytest",
     "build": "python -m build_script",
     "lint": "flake8 ."
   },
